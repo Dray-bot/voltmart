@@ -17,10 +17,10 @@ export default function Footer() {
         <div>
           <h3 className="text-[#1FB6FF] text-base sm:text-lg font-semibold mb-2 sm:mb-3">Shop</h3>
           <ul className="flex flex-wrap sm:flex-col gap-1 sm:gap-1">
-            <li><a href="/shop/phones" className="hover:text-[#1FB6FF] transition text-sm sm:text-base">Smartphones</a></li>
-            <li><a href="/shop/laptops" className="hover:text-[#1FB6FF] transition text-sm sm:text-base">Laptops</a></li>
-            <li><a href="/shop/audio" className="hover:text-[#1FB6FF] transition text-sm sm:text-base">Audio</a></li>
-            <li><a href="/shop/smarthome" className="hover:text-[#1FB6FF] transition text-sm sm:text-base">Smart Home</a></li>
+            <li><a href="/shop" className="hover:text-[#1FB6FF] transition text-sm sm:text-base">Smartphones</a></li>
+            <li><a href="/shop" className="hover:text-[#1FB6FF] transition text-sm sm:text-base">Laptops</a></li>
+            <li><a href="/shop" className="hover:text-[#1FB6FF] transition text-sm sm:text-base">Audio</a></li>
+            <li><a href="/shop" className="hover:text-[#1FB6FF] transition text-sm sm:text-base">Smart Home</a></li>
           </ul>
         </div>
 
