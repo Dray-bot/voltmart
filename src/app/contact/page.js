@@ -14,7 +14,7 @@ export default function ContactPage() {
       >
         <h1 className="text-4xl font-bold text-blue-700 mb-4">Contact Us</h1>
         <p className="text-gray-700 mb-10">
-          Have a question or need support? Reach out to us. We're here to help!
+          Have a question or need support? Reach out to us. We&apos;re here to help!
         </p>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
@@ -68,7 +68,7 @@ export default function ContactPage() {
             <div>
               <h2 className="text-xl font-semibold text-gray-800 mb-2">Our Office</h2>
               <p className="text-gray-700">
-                12 VoltMart Street<br/>
+                12 VoltMart Street<br />
                 Lagos Island, Lagos, NG
               </p>
             </div>
@@ -101,7 +101,7 @@ export default function ContactPage() {
               <iframe
                 className="w-full h-full"
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.182348986381!2d3.357375575472835!3d6.449123327591054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf7f5e0d9c0b5%3A0x2d0e00c1f6e5d0e!2sIdumota%2C%20Lagos%2C%20Nigeria!5e0!3m2!1sen!2sng!4v1692712345678"
-                allowFullScreen=""
+                allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
               ></iframe>

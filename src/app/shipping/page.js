@@ -15,7 +15,7 @@ export default function ShippingPage() {
     },
     {
       title: "Returns & Refunds",
-      content: "If you’re not satisfied with your purchase, you can return it within 30 days for a full refund, provided the item is in original condition and packaging. Contact support to receive a return label and instructions."
+      content: "If you&apos;re not satisfied with your purchase, you can return it within 30 days for a full refund, provided the item is in original condition and packaging. Contact support to receive a return label and instructions."
     },
     {
       title: "Return Process",

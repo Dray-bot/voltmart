@@ -7,7 +7,7 @@ export default function FAQPage() {
   const faqs = [
     {
       question: "How can I track my order?",
-      answer: "Once your gadget ships, you’ll get a tracking number via email so you can monitor its journey in real time."
+      answer: "Once your gadget ships, you&apos;ll get a tracking number via email so you can monitor its journey in real time."
     },
     {
       question: "What payment methods do you accept?",
